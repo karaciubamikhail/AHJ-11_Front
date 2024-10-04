@@ -1,0 +1,29 @@
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+.card-imgs{
+    display: flex;
+}
+.card-imgs__img{
+    list-style-type: none;
+    max-width: 40px;
+    opacity: 0.3;
+}
+.card-form{
+    display: flex
+}
+.card-imgs__img__active{
+    opacity: 1;
+}
+.card-text{
+    color: brown;
+    font-size: 20px;
+}
