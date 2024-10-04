@@ -1,4 +1,4 @@
-import "./css/card-form.css";
+import "./css/style.css";
 
 import "./js/app";
 
